@@ -1,0 +1,17 @@
+{
+    "name": "nikitadudarev/import-product-wp",
+    "description": "Import scv + img | WP",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Nikita",
+            "email": "nikita.d.itlt@gmail.com"
+        }
+    ],
+    "require": {
+    	 "php": ">=5.4.0"
+    },
+    "require-dev": {
+    	 "phpunit/phpunit": "4.8.9"
+    }
+}
